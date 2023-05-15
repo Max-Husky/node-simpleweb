@@ -1,5 +1,5 @@
 {
-  "name": "@maxhusky/simple-web-server",
+  "name": "@maxhusky/simple-webserver",
   "version": "1.0.0",
   "description": "An overly simple webserver",
   "main": "server.js",
